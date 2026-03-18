@@ -82,13 +82,6 @@ To run the project properly:
 * Add your own `google-services.json` file in `android/app/`
 * Enable Google Sign-In in Firebase Console
 
----
-
-## 📸 Screenshots
-
-*Add your app screenshots here (recommended for better presentation)*
-
----
 
 ## 📂 Project Structure
 
