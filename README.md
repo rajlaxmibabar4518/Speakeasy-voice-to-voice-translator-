@@ -1,16 +1,26 @@
-# speakeasy_app_fixed
+# Speakeasy Voice-to-Voice Translator
 
-A new Flutter project.
+A Flutter-based mobile application that translates spoken language into another language in real time using voice input and audio output.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* 🎤 Voice-to-voice translation
+* 🌍 Multi-language support
+* 🔊 Text-to-speech output
+* 📱 Clean UI
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+
+## Author
+
+Rajlaxmi Babar
